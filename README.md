@@ -1,5 +1,5 @@
 # 💫 A propos de moi:
-🔭 Je travail actuellement sur un application en flutter<br>🌱 Je suis entrain d'apprendre en profondeur flutter et en parallèle j'ai un projet de site web<br>💬 Je prends tout type de conseils et d'expérience
+🔭 Etudiant en BUT informatique <br>🌱 Je suis sur différents projets en parallèle <br>💬 Je prends tout type de conseils et d'expérience
 
 
 ## 🌐 Socials:
