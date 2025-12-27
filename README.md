@@ -1,5 +1,5 @@
 # 💫 A propos de moi:
-🔭 Etudiant en BUT informatique <br>🌱 Je suis sur différents projets en parallèle <br>💬 Je prends tout type de conseils et d'expérience
+🔭 Etudiant en Master MIAGE à Amiens<br>🌱 Je suis sur différents projets en parallèle <br>💬 Je prends tout type de conseils et d'expérience
 
 
 ## 🌐 Socials:
